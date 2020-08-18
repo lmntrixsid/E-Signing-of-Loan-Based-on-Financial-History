@@ -18,7 +18,8 @@ The e-Sign has been granted legal status by amendments to various laws, namely t
 You can use the Jupyter noteook
 1. Download and unzip the files
 2. Set the path
-3. axis the file, through jupyter notebook 
+3. access the file, through jupyter notebook 
+4.Make sure you have all the dependencies
 
 ## Processes Implemented in this Deep-Learning  Model 
 
